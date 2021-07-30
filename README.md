@@ -94,5 +94,3 @@ _NOTE: Top languages do not indicate my skill level, it is a GitHub metric of wh
 [linkedin]: https://www.linkedin.com/in/wardvisual/
 [facebook]: https://www.facebook.com/wardvisual
 
-
-<!-- README IDEA FROM https://github.com/MarkLester10/MarkLester10 -->
