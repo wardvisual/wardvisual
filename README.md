@@ -7,8 +7,6 @@
 V 0.0.2
 [Edward Fernandez | Behance][website]
 
-## Young Dev.
-
 - 👌 I love DSA
 
 ### Connect with me:
