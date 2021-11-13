@@ -1,10 +1,10 @@
-[<img src="./assets/banner-dark.svg">](https://www.behance.net/wardvisual)
+[<img src="./assets/banner-dark.jpg">](https://www.behance.net/wardvisual)
 
 ### Hi there 👋
 
 [![](https://img.shields.io/badge/Gmail-wardvisual@gmail.com-red)](mailto:wardvisual@gmail.com) [![](https://img.shields.io/badge/Linkedin-Edward%20Fernandez-blue)](https://www.linkedin.com/in/wardvisual/)
 <img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="Edward Fernandez" />
-
+V 0.0.2
 [Edward Fernandez | Behance][website]
 
 ## Young Dev.
