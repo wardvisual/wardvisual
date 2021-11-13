@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/Gmail-wardvisual@gmail.com-red)](mailto:wardvisual@gmail.com) [![](https://img.shields.io/badge/Linkedin-Edward%20Fernandez-blue)](https://www.linkedin.com/in/wardvisual/)
 <img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="Edward Fernandez" />
-V 0.0.2
+<br />
 [Edward Fernandez | Behance][website]
 
 - 👌 I love DSA
