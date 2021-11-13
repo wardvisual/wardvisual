@@ -1,4 +1,4 @@
-[<img src="./assets/banner-dark.jpg">](https://www.behance.net/wardvisual)
+[<img src="./assets/banner.svg">](https://www.behance.net/wardvisual)
 
 ### Hi there 👋
 
@@ -9,7 +9,7 @@ V 0.0.2
 
 ## Young Dev.
 
-- 👌 DSA is everything!
+- 👌 I love DSA
 
 ### Connect with me:
 
