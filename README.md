@@ -1,15 +1,15 @@
 [<img src="./assets/banner-dark.svg">](https://www.behance.net/wardvisual)
+
 ### Hi there 👋
 
 [![](https://img.shields.io/badge/Gmail-wardvisual@gmail.com-red)](mailto:wardvisual@gmail.com) [![](https://img.shields.io/badge/Linkedin-Edward%20Fernandez-blue)](https://www.linkedin.com/in/wardvisual/)
- <img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="Edward Fernandez" /> 
+<img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="Edward Fernandez" />
 
 [Edward Fernandez | Behance][website]
 
-## I'm a Student and Aspiring Full-Stack Developer!
+## Young Dev.
 
-- 🔭 Right I'm working with an E-commerce Website for small business.
-- 🎯 As a student, I'm very focused right now on developing my career. I'm a proactive, career-driven, and motivated person.
+- 👌 DSA is everything!
 
 ### Connect with me:
 
@@ -41,6 +41,8 @@
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Vanilla JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="ReactJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="NextJS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
 <img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
 <img align="left" alt="NodeJs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="ExpressJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
@@ -93,4 +95,3 @@ _NOTE: Top languages do not indicate my skill level, it is a GitHub metric of wh
 [instagram]: https://www.instagram.com/wardvisual/
 [linkedin]: https://www.linkedin.com/in/wardvisual/
 [facebook]: https://www.facebook.com/wardvisual
-
