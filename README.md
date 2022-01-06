@@ -1,4 +1,4 @@
-[<img src="./assets/banner.svg">](https://www.behance.net/wardvisual)
+[<img src="./assets/wardvisual-banner.svg">](https://www.behance.net/wardvisual)
 
 ### Hi there 👋
 
