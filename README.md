@@ -2,12 +2,12 @@
 
 ### Hi there 👋
 
-[![](https://img.shields.io/badge/Gmail-wardvisual@gmail.com-red)](mailto:wardvisual@gmail.com) [![](https://img.shields.io/badge/Linkedin-Edward%20Fernandez-blue)](https://www.linkedin.com/in/wardvisual/)
+[![](https://img.shields.io/badge/Gmail-wardvisual@gmail.com-red)](mailto:wardvisual@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="Edward Fernandez" />
 <br />
 [Edward Fernandez | Behance][website]
 
-- 👌 I love DSA
+- 👌 Push yourself to the limits.
 
 ### Connect with me:
 
@@ -91,5 +91,4 @@ _NOTE: Top languages do not indicate my skill level, it is a GitHub metric of wh
 [website]: https://www.behance.net/wardvisual
 [twitter]: https://twitter.com/wardvisual
 [instagram]: https://www.instagram.com/wardvisual/
-[linkedin]: https://www.linkedin.com/in/wardvisual/
 [facebook]: https://www.facebook.com/wardvisual
