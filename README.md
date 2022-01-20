@@ -1,6 +1,6 @@
 [<img src="./assets/wardvisual-banner.svg">](https://www.behance.net/wardvisual)
 
-### Hi there 👋
+### Hi, Devs! 👋
 
 [![](https://img.shields.io/badge/Gmail-wardvisual@gmail.com-red)](mailto:wardvisual@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="Edward Fernandez" />
