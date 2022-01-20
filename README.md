@@ -7,7 +7,7 @@
 <br />
 [Edward Fernandez | Behance][website]
 
-- 👌 Push yourself to the limits.
+- 💠Push yourself to the limits.
 
 ### Connect with me:
 
