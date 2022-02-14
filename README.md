@@ -7,7 +7,7 @@
 <br />
 [Edward Fernandez | Behance][website]
 
-- 💠Push yourself to the limits.
+- 🚀 Push yourself to the limits.
 
 ### Connect with me:
 
@@ -32,22 +32,27 @@
 
 <br />
 
-### Web Technologies:
+### Web Technologies & Tools:
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Vanilla JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="ReactJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="NextJS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" />
+<img align="left" alt="ReactJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="NextJS" width="30px" src="https://jacklyons.me/images/next-js-logo.jpg" />
+<img align="left" alt="Laravel" width="30px" src="https://laravelnews.imgix.net/images/laravel-featured.png?ixlib=php-3.3.1" />
 <img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
 <img align="left" alt="NodeJs" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Nestjs" width="30px" src="https://www.kindpng.com/picc/m/221-2214777_nestjs-logo-hd-png-download.png" />
+<img align="left" alt="Flutter" width="30px" src="https://static.wikia.nocookie.net/logo-timeline/images/c/cf/4B4A9751-D2BF-4A93-BDCC-CDCA5326B65F.png/revision/latest?cb=20210426191500" />
 <img align="left" alt="ExpressJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Prisma" width="30px" src="https://logowik.com/content/uploads/images/prisma2244.jpg" />
+<img align="left" alt="Docker" width="30px" src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" />
+<img align="left" alt="Webpack" width="26px" src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" />
 <img align="left" alt="SASS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Styled Component" width="30px" src="https://styled-components.com/atom.png" />
-<img align="left" alt="Webpack" width="26px" src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" />
 
 <!--
 <img align="left" alt="Inertia" width="26px" src="https://avatars0.githubusercontent.com/u/47703742?s=280&v=4" />
