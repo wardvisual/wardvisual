@@ -1,12 +1,14 @@
 [<img src="./assets/wardvisual_banner.jpg">](https://www.behance.net/wardvisual)
 
 ### 👋 Hey, Great seeing you!
+<hr />
+Hi, I am Edward Fernandez, Full-stack JS Developer based in the Philippines.
 
 [![](https://img.shields.io/badge/Gmail-wardvisual@gmail.com-red)](mailto:wardvisual@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="Edward Fernandez" />
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234187FF&size=22&lines=Edward+Fernandez;Javascript+Enthusiast;UI%2FUX+Design+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234187FF&size=22&lines=I+amEdward+Fernandez;Javascript+Enthusiast;UI%2FUX+Design+Engineer)](https://git.io/typing-svg)
 
 ### Current Status Quo:
 
