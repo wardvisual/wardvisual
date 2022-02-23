@@ -1,13 +1,20 @@
 [<img src="./assets/wardvisual_banner.jpg">](https://www.behance.net/wardvisual)
 
-### Hi, Devs! 👋
+### 👋 Hey, Great seeing you!
 
 [![](https://img.shields.io/badge/Gmail-wardvisual@gmail.com-red)](mailto:wardvisual@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="Edward Fernandez" />
 <br />
 [Edward Fernandez | Behance][website]
 
-- 🚀 Push yourself to the limits.
+- 🚀 A person who loves to make stuffs in his spare time and enhance his abilities with passion.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Edward+Fernandez;JS-Enthusiast;UI+UX+Engineer)](https://git.io/typing-svg)
+
+### Current Status Quo:
+
+- 💼 Love working with Javascript stacks such as <strong>ReactJS, NodeJS and other stuffs</strong>.
+- 🔍 I’m looking for connections in <strong>Web Development and UI/UX Designs</strong> Industry.
 
 ### Connect with me:
 
