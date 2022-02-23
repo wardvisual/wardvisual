@@ -10,8 +10,9 @@
 
 ### Current Status Quo:
 
-- 🚀 A person who loves to make stuffs in his spare time and enhance his abilities with strong passion.
+- 🚀 A person who loves to make stuffs in his spare time and enhance his abilities with <strong>strong passion.<strong>
 - 💼 Love working with Javascript stacks such as <strong>ReactJS, NodeJS and other stuffs</strong>.
+- 📱 Currently learning Android Development with <strong>Flutter<strong> and impproving skills day by day.
 - 🔍 I’m looking for connections in <strong>Web Development and UI/UX Designs</strong> Industry.
 - 👁‍🗨 [My some UI designs | Behance][website]
 
