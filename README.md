@@ -14,7 +14,7 @@
 - 💼 Love working with Javascript stacks such as <strong>ReactJS, NodeJS and other stuffs</strong>.
 - 📱 Currently learning Android Development with <strong>Flutter<strong> and improving skills day by day.
 - 🔍 I’m looking for connections in <strong>Web Development and UI/UX Designs</strong> Industry.
-- 👁‍🗨 [My some UI designs | Behance][website]
+- 👁‍🗨 [Some of my world class UI designs | Behance][website]
 
 ### Connect with me:
 
