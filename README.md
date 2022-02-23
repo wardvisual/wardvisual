@@ -5,16 +5,15 @@
 [![](https://img.shields.io/badge/Gmail-wardvisual@gmail.com-red)](mailto:wardvisual@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="Edward Fernandez" />
 <br />
-[Edward Fernandez | Behance][website]
-
-- 🚀 A person who loves to make stuffs in his spare time and enhance his abilities with passion.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234187FF&size=22&lines=Edward+Fernandez;Javascript+Enthusiast;UI%2FUX+Design+Engineer)](https://git.io/typing-svg)
 
 ### Current Status Quo:
 
+- 🚀 A person who loves to make stuffs in his spare time and enhance his abilities with strong passion.
 - 💼 Love working with Javascript stacks such as <strong>ReactJS, NodeJS and other stuffs</strong>.
 - 🔍 I’m looking for connections in <strong>Web Development and UI/UX Designs</strong> Industry.
+- 👁‍🗨 [My some UI designs | Behance][website]
 
 ### Connect with me:
 
