@@ -9,7 +9,7 @@
 
 - 🚀 A person who loves to make stuffs in his spare time and enhance his abilities with passion.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Edward+Fernandez;JS-Enthusiast;UI+UX+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234187FF&size=22&lines=Edward+Fernandez;Javascript+Enthusiast;UI%2FUX+Design+Engineer)](https://git.io/typing-svg)
 
 ### Current Status Quo:
 
