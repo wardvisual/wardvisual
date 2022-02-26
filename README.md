@@ -95,7 +95,7 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 
 ### Github Activity: 🔥
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?wardvisual=ryo-ma&theme=algolia" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=wardvisual&theme=algolia" />
 
 ---
 
