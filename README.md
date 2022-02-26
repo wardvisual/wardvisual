@@ -85,7 +85,7 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 
 <p> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wardvisual&theme=algolia" alt="wardvisual" />
+    <img src="https://github-profile-trophy.vercel.app/?username=wardvisual&theme=tokyonight" alt="wardvisual" />
   </a> 
 </p>
 
@@ -102,10 +102,10 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 ### GitHub Highlights: :blossom:
 
 <a href="https://www.linkedin.com/in/wardvisual/">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wardvisual&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wardvisual&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </a><br><br>
 <a href="https://www.linkedin.com/in/wardvisual/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wardvisual&langs_count=8&layout=compact&theme=algolia&hide=html,Tcl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wardvisual&langs_count=8&layout=compact&theme=tokyonight&hide=html,Tcl" />
 </a>
 
 <br />
