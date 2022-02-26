@@ -95,7 +95,7 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 
 ### Github Activity: 🔥
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=wardvisual&theme=algolia&color=B994E6&bg_color=algolia" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=wardvisual&theme=algolia&color=B994E6&bg_color=2B2D3D" />
 
 ---
 
