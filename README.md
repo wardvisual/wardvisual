@@ -22,7 +22,7 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 - 🔍 I’m looking for connections in <strong>Web Development and UI/UX Designs</strong> Industry.
 - 👁‍🗨 [Some of my world class UI designs | Behance][website]
 
-### Connect with me: ✈
+### Connect with me: 💬
 
 [<img align="left" alt="Edward Fernandez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Edward Fernandez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
