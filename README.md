@@ -1,6 +1,7 @@
 [<img src="./assets/wardvisual_banner.jpg">](https://www.behance.net/wardvisual)
 
 ### 👋 Hey, Great seeing you!
+
 <hr />
 Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the Philippines.
 
@@ -11,7 +12,7 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 
 ### Current Status Quo:
 
-- 🚀 A person who loves to make stuffs in his spare time and enhance his abilities with <strong>passion<strong> in every beat. 
+- 🚀 A person who loves to make stuffs in his spare time and enhance his abilities with <strong>passion<strong> in every beat.
 - 💼 Love working with Javascript stacks such as <strong>ReactJS, NodeJS and other stuffs</strong>.
 - 📱 Currently learning Android App Development with <strong>Flutter<strong> and improving skills day by day.
 - 🔍 I’m looking for connections in <strong>Web Development and UI/UX Designs</strong> Industry.
@@ -69,7 +70,6 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 -->
 
 <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
-<!-- <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />webdevplaylist -->
 <!-- <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />-->
 <!-- <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />webdevplaylist -->
 <!-- <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
