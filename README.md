@@ -1,18 +1,19 @@
 [<img src="./assets/wardvisual_banner.jpg">](https://www.behance.net/wardvisual)
 
 ### 👋 Hey, Great seeing you!
+<hr />
+Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the Philippines.
 
-[![](https://img.shields.io/badge/Gmail-wardvisual@gmail.com-red)](mailto:wardvisual@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="Edward Fernandez" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234187FF&size=22&lines=I'm+Edward+Fernandez;Javascript+Enthusiast;UI%2FUX+Design+Engineer)](https://git.io/typing-svg)
+
+[![](https://img.shields.io/badge/Gmail-wardvisual@gmail.com-red)](mailto:wardvisual@gmail.com) <img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="Edward Fernandez" />
 <br />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234187FF&size=22&lines=Edward+Fernandez;Javascript+Enthusiast;UI%2FUX+Design+Engineer)](https://git.io/typing-svg)
 
 ### Current Status Quo:
 
-- 🚀 A person who loves to make stuffs in his spare time and enhance his abilities with <strong>strong passion.<strong>
+- 🚀 A person who loves to make stuffs in his spare time and enhance his abilities with <strong>passion<strong> in every beat. 
 - 💼 Love working with Javascript stacks such as <strong>ReactJS, NodeJS and other stuffs</strong>.
-- 📱 Currently learning Android Development with <strong>Flutter<strong> and improving skills day by day.
+- 📱 Currently learning Android App Development with <strong>Flutter<strong> and improving skills day by day.
 - 🔍 I’m looking for connections in <strong>Web Development and UI/UX Designs</strong> Industry.
 - 👁‍🗨 [Some of my world class UI designs | Behance][website]
 
