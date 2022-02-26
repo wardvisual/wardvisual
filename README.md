@@ -10,7 +10,7 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 [![](https://img.shields.io/badge/Gmail-wardvisual@gmail.com-red)](mailto:wardvisual@gmail.com) <img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="Edward Fernandez" />
 <br />
 
-### Current Status Quo:
+### Current Status Quo: ♨
 
 - 🚀 A person who loves to make stuffs in his spare time and enhance his abilities with <strong>passion<strong> in every beat.
 - 💼 Love working with Javascript stacks such as <strong>ReactJS, NodeJS and other stuffs</strong>.
@@ -18,7 +18,7 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 - 🔍 I’m looking for connections in <strong>Web Development and UI/UX Designs</strong> Industry.
 - 👁‍🗨 [Some of my world class UI designs | Behance][website]
 
-### Connect with me:
+### Connect with me: ✈
 
 [<img align="left" alt="Edward Fernandez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Edward Fernandez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -26,7 +26,7 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 
 <br />
 
-### Tools:
+### Tools: 🛠
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Postman" width="26px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" />
@@ -41,7 +41,7 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 
 <br />
 
-### Web Technologies:
+### Web Technologies: 💻
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -79,8 +79,8 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 
 ### Github Tropy: 🏆
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy" style="padding: .5em;">
+<p style="align-items: left; display: flex; gap: 1em;"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=wardvisual" alt="wardvisual" />
   </a> 
 </p>
