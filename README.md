@@ -85,7 +85,7 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 
 <p> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wardvisual" alt="wardvisual" />
+    <img src="https://github-profile-trophy.vercel.app/?username=wardvisual&theme=algolia" alt="wardvisual" />
   </a> 
 </p>
 
@@ -93,22 +93,22 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 
 <!-- STAT THEMES (buefy, algolia, nightowl, dracula, vue, dark, onedark, prussian, radical, tokyonight) -->
 
-### Github Activity: 🔥
+### Github Activit: 🔥
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=wardvisual&theme=algolia" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=wardvisual&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 ---
 
 ### GitHub Highlights: :blossom:
 
-<a href="https://www.linkedin.com/in/wardvisual/" align="center" >
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wardvisual&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
+<a href="https://www.linkedin.com/in/wardvisual/">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wardvisual&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
 </a><br><br>
-<a href="https://www.linkedin.com/in/wardvisual/" align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wardvisual&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+<a href="https://www.linkedin.com/in/wardvisual/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wardvisual&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
 
-<br>
+<br />
 
 _NOTE: Top languages do not indicate my skill level, it is a GitHub metric of which languages I have the most code on my repositories or in GitHub in general._
 
