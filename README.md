@@ -79,8 +79,8 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 
 ### Github Tropy: 🏆
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy" style="padding: .5em;">
     <img src="https://github-profile-trophy.vercel.app/?username=wardvisual" alt="wardvisual" />
   </a> 
 </p>
