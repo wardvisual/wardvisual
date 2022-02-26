@@ -85,7 +85,7 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 
 <p> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wardvisual&theme=algolia" alt="wardvisual" />
+    <img src="https://github-profile-trophy.vercel.app/?username=wardvisual&theme=tokyonight" alt="wardvisual" />
   </a> 
 </p>
 
