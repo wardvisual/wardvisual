@@ -81,7 +81,7 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 <br />
 <br />
 
-### Github Tropy: 🏆
+### Github Trophy: 🏆
 
 <p> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -101,14 +101,14 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 
 ### GitHub Highlights: :blossom:
 
-<a href="https://www.linkedin.com/in/wardvisual/">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wardvisual&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
+<a href="https://www.linkedin.com/in/wardvisual/" align="center" >
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wardvisual&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
 </a><br><br>
-<a href="https://www.linkedin.com/in/wardvisual/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wardvisual&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+<a href="https://www.linkedin.com/in/wardvisual/" align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wardvisual&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
 
-<br />
+<br>
 
 _NOTE: Top languages do not indicate my skill level, it is a GitHub metric of which languages I have the most code on my repositories or in GitHub in general._
 
