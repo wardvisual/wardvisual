@@ -1,3 +1,7 @@
+<!--
+  @Author: Edward Fernandez (https://github.com/wardvisual)
+ -->
+
 [<img src="./assets/wardvisual_banner.jpg">](https://www.behance.net/wardvisual)
 
 ### 👋 Hey, Great seeing you!
@@ -85,13 +89,15 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
   </a> 
 </p>
 
+---
+
 <!-- STAT THEMES (buefy, algolia, nightowl, dracula, vue, dark, onedark, prussian, radical, tokyonight) -->
 
 ### Github Activity: 🔥
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=wardvisual&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
-_NOTE: Top languages do not indicate my skill level, it is a GitHub metric of which languages I have the most code on my repositories or in GitHub in general._
+---
 
 ### GitHub Highlights: :blossom:
 
@@ -101,6 +107,8 @@ _NOTE: Top languages do not indicate my skill level, it is a GitHub metric of wh
 <a href="https://www.linkedin.com/in/wardvisual/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wardvisual&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
+
+_NOTE: Top languages do not indicate my skill level, it is a GitHub metric of which languages I have the most code on my repositories or in GitHub in general._
 
 ---
 
