@@ -83,7 +83,7 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 
 ### Github Tropy: 🏆
 
-<p style="align-items: left; display: flex; gap: 1em;"> 
+<p> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=wardvisual" alt="wardvisual" />
   </a> 
@@ -107,6 +107,8 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 <a href="https://www.linkedin.com/in/wardvisual/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wardvisual&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
+
+<br />
 
 _NOTE: Top languages do not indicate my skill level, it is a GitHub metric of which languages I have the most code on my repositories or in GitHub in general._
 
