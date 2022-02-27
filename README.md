@@ -81,7 +81,7 @@ Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the P
 <br />
 <br />
 
-### Github Trophies: 🏆
+### Github Trophy: 🏆
 
 <p> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
