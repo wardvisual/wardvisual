@@ -4,10 +4,10 @@
 
 [<img src="./assets/wardvisual_banner.jpg">](https://www.behance.net/wardvisual)
 
-### 👋 Hey, Great seeing you!
+### ⚡ Hey, Great seeing you!
 
 <hr />
-Hello, I'm Edward Fernandez🙋‍♂️, Full-Stack JS Developer based in the Philippines.
+Hello, I'm Edward Fernandez 🙋‍♂️ Full-Stack JS Developer based in the Philippines.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234187FF&size=22&lines=I'm+Edward+Fernandez;Javascript+Enthusiast;UI%2FUX+Design+Engineer)](https://git.io/typing-svg)
 
