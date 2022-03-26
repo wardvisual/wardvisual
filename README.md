@@ -17,11 +17,7 @@ Hello, I'm Edward Fernandez 🙋‍♂️ Full-Stack JS Developer based in the P
 ### Current Status Quo: ♨
 
 - 🚀 A person who loves to make stuffs in his spare time and enhance his abilities with <strong>passion.<strong>
-<<<<<<< HEAD
-- 💼 Love working with Javascript stacks such as <strong>ReactJS, NodeJS and other stuffs</strong>.
-=======
-- 💼 Love working with Javascript stacks.
->>>>>>> 276b92b9cff4b7bb850d6d4c6494eeddeeb77dd7
+- 💼 Specializing in mostly JavaScript, but also write Python, Java, and PHP. and some other language.
 - 📱 Currently learning Android App Development with <strong>Flutter<strong> and improving skills day by day.
 - 🔍 I’m looking for connections in <strong>Web Development and UI/UX Designs</strong> Industry.
 - 👁‍🗨 [Some of my world class UI designs | Behance][website]
