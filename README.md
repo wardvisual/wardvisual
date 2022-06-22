@@ -17,7 +17,7 @@ Hello, I'm Edward Fernandez 🙋‍♂️ Full-Stack JS Developer based in the P
 ### Current Status Quo: ♨
 
 - 🚀 A person who loves to make stuffs in his spare time and enhance his abilities with <strong>passion.<strong>
-- 💼 Specializing in mostly JavaScript.
+- 💼 JavaScript Enthusiast.
 - 🌱 I'm currently learning microservices development
 - 👯 I'm looking to collaborate on anything free and open source
 - 📫 How to reach me: @wardvisual ping
