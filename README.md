@@ -67,8 +67,6 @@ Hello, I'm Edward Fernandez 🙋‍♂️ Full-Stack JS Developer based in the P
 
 <br />
 
-_NOTE: Top languages do not indicate my skill level, it is a GitHub metric of which languages I have the most code on my repositories or in GitHub in general._
-
 ---
 
 ### Best UI Resources for front-end developers
