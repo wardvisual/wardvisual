@@ -18,8 +18,10 @@ Hello, I'm Edward Fernandez 🙋‍♂️ Full-Stack JS Developer based in the P
 
 - 🚀 A person who loves to make stuffs in his spare time and enhance his abilities with <strong>passion.<strong>
 - 💼 Specializing in mostly JavaScript.
-- 🔍 I’m looking for connections in <strong>Web Development and UI/UX Designs</strong> Industry.
-- 👁‍🗨 [Some of my world class UI designs | Behance][website]
+- 🌱 I'm currently learning microservices development
+- 👯 I'm looking to collaborate on anything free and open source
+- 📫 How to reach me: @wardvisual ping
+- 😄 Pronouns: He / Him
 
 ### Connect with me: 💬
 
