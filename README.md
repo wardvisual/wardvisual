@@ -77,9 +77,10 @@ Hello, I'm Edward Fernandez 🙋‍♂️ Full-Stack JS Developer based in the P
 ### Website Deployment Platforms
 
 <img src="https://img.shields.io/badge/VPS UBUNTU-red?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/NGINX-black?style=for-the-badge&logo=nginx"/>
+<img src="https://img.shields.io/badge/NGINX-black?style=for-the-badge&logo=nginx"/>&nbsp;
 
 <hr />
+
 ### Github Activity: 🔥
 
 <a href="http://www.github.com/wardvisual"><img src="https://github-readme-stats.vercel.app/api?username=wardvisual&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="wardvisual's GitHub stats" /></a>
@@ -91,7 +92,9 @@ Hello, I'm Edward Fernandez 🙋‍♂️ Full-Stack JS Developer based in the P
 <a href="https://github.com/wardvisual" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wardvisual&langs_count=5&exclude_repo=talaarawan,valorant-shop,pup&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <hr />
+
 ### Best UI Resources for front-end developers
+
 <a href="https://github.com/bradtraversy/design-resources-for-developers#html--css-templates">
   <img align="center" src="https://www.teachsecondary.com/images/uploads/6-digital-resources.jpg" height="200" />
 </a>
