@@ -68,8 +68,10 @@ Hello, I'm Edward Fernandez 🙋‍♂️ Full-Stack JS Developer based in the P
 
 #### Coding Workspace
 
-<img src="https://img.shields.io/badge/Windows11 -0078D7?style=for-the-badge&logo=windows"/>
+<img src="https://img.shields.io/badge/Windows11 -0078D7?style=for-the-badge&logo=windows"/>&nbsp;
+
 ##### WSL
+
 <img src="https://img.shields.io/badge/ UBUNTU-red?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp;
 
 ### Website Deployment Platforms
