@@ -64,7 +64,7 @@ Hello, I'm Edward Fernandez 🙋‍♂️ Full-Stack JS Developer based in the P
 <img src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/MYSQL-F29111?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-#### Package Managers
+#### Package Manager
 
 <img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm"/>&nbsp;
 
@@ -72,7 +72,7 @@ Hello, I'm Edward Fernandez 🙋‍♂️ Full-Stack JS Developer based in the P
 
 <img src="https://img.shields.io/badge/Windows11 -0078D7?style=for-the-badge&logo=windows"/>&nbsp;
 
-#### WSL
+#### WSL Distru.
 
 <img src="https://img.shields.io/badge/ UBUNTU-red?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp;
 
