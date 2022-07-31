@@ -9,14 +9,10 @@
   <p> Hello, I'm Edward Fernandez 🙋‍♂️ Full-Stack JS Developer based in the Philippines. </p>
 </div>
 
-<div align="center" >
-  <div style="display: grid; place-items: center; margin-bottom: 2em;">
-    <img style="padding-left: 8em"src="https://readme-typing-svg.herokuapp.com?color=%234187FF&size=22&lines=I'm+Edward+Fernandez;Javascript+Enthusiast;UI%2FUX+Design+Engineer" />
-  <!-- <img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="Edward Fernandez" style="height: 1.5em"/> -->
-  </div>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234187FF&size=22&lines=I'm+Edward+Fernandez;Javascript+Enthusiast;UI%2FUX+Design+Engineer)](https://git.io/typing-svg)
+[![](https://img.shields.io/badge/Gmail-wardvisual@gmail.com-red)](mailto:wardvisual@gmail.com) <img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="Edward Fernandez" />
 
-<div align="start" style="margin-bottom: 3em; border: 1px gray solid; padding: 1em; border-radius: 10px;">
+<div align="start" style="margin-bottom: 3em;">
   <h3> About Edward Fernandez ⬇️</h3>
     <p> 🚀 A person who loves to make stuffs in his spare time. </p>
     <p> 💼 JavaScript Enthusiast. I used Javascript Stacks to build an application. </p>
