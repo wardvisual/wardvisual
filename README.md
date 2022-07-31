@@ -109,3 +109,4 @@
   <a href="https://github.com/bradtraversy/design-resources-for-developers#html--css-templates">
     <img align="center" src="https://www.teachsecondary.com/images/uploads/6-digital-resources.jpg" height="200" />
   </a>
+</div>
