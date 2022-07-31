@@ -2,7 +2,7 @@
   @Author: Edward Fernandez (https://github.com/wardvisual)
  -->
 
-[<img src="./assets/wardvisual_banner.jpg">](https://www.behance.net/wardvisual)
+[<img src="./assets/banner.jpg">](https://www.behance.net/wardvisual)
 
 <div align="center">
   <h3> Hey, Great seeing you! </h3>
