@@ -8,7 +8,7 @@
 <p> Hello, I'm Edward Fernandez 🙋‍♂️ Full-Stack JS Developer based in the Philippines. </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5A9BDA&lines=Edward+Fernandez;Fullstack+Javascript+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
-<img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="profile views">
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square)
 
 <div align="start" style="margin-bottom: 3em;">
   <h3> About Edward Fernandez ⬇️</h3>
