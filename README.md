@@ -4,8 +4,8 @@
 
 [<img src="./assets/banner.jpg">](https://www.behance.net/wardvisual)
 
-<h3> Hey, Great seeing you! </h3>
-<p> Hello, I'm Edward Fernandez 🙋‍♂️ Full-Stack JS Developer based in the Philippines. </p>
+<h3> Hey, Great seeing you! 👀</h3>
+<p> Hello, I'm Edward Fernandez 👋🏻 Full-Stack JS Developer based in the Philippines. </p>
 
 <div> 
 <img src="https://readme-typing-svg.herokuapp.com?color=5A9BDA&lines=Edward+Fernandez;Fullstack+Javascript+Developer;UI%2FUX+Designer" alt="typing-svg"> 
