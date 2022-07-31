@@ -4,10 +4,8 @@
 
 [<img src="./assets/banner.jpg">](https://www.behance.net/wardvisual)
 
-<div align="center">
-  <h3> Hey, Great seeing you! </h3>
-  <p> Hello, I'm Edward Fernandez 🙋‍♂️ Full-Stack JS Developer based in the Philippines. </p>
-</div>
+<h3> Hey, Great seeing you! </h3>
+<p> Hello, I'm Edward Fernandez 🙋‍♂️ Full-Stack JS Developer based in the Philippines. </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234187FF&size=22&lines=I'm+Edward+Fernandez;Javascript+Enthusiast;UI%2FUX+Design+Engineer)](https://git.io/typing-svg)
 [![](https://img.shields.io/badge/Gmail-wardvisual@gmail.com-red)](mailto:wardvisual@gmail.com)
@@ -23,6 +21,7 @@
     <p> 📫 How to reach me: @wardvisual </p>
 </div>
 
+<hr>
 <div align="center" style="margin-bottom: 3em;">
   <h3> Connect with me ⬇️</h3>
   <a href="https://discord.com/users/wardvisual" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/wardvisual" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/wardvisual" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/wardvisual" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/wardvisual" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/wardvisual" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
