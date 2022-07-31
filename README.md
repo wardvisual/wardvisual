@@ -14,7 +14,7 @@
 </div>
 
 <div align="start" style="margin-bottom: 3em;">
-  <h3> About Edward Fernandez ⬇️</h3>
+  <h3> About Edward Fernandez:</h3>
     <p> 🚀 A person who loves to make stuffs in his spare time. </p>
     <p> 💼 JavaScript Enthusiast. I used Javascript Stacks to build an application. </p>
     <p> 🤖 45% Reading, 45% Coding, 10% Sleep. </p>
