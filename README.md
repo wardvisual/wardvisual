@@ -9,12 +9,12 @@
   <p> Hello, I'm Edward Fernandez 🙋‍♂️ Full-Stack JS Developer based in the Philippines. </p>
 </div>
 
-<div align="center" style="display: grid; place-items: center; margin-bottom: 2em;">
-
-  <img style="padding-left: 8em" src="https://readme-typing-svg.herokuapp.com?color=%234187FF&size=22&lines=I'm+Edward+Fernandez;Javascript+Enthusiast;UI%2FUX+Design+Engineer" />
-
+<div align="center" >
+  <div style="display: grid; place-items: center; margin-bottom: 2em;">
+    <img style="padding-left: 8em"src="https://readme-typing-svg.herokuapp.com?color=%234187FF&size=22&lines=I'm+Edward+Fernandez;Javascript+Enthusiast;UI%2FUX+Design+Engineer" />
+    
   <img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="Edward Fernandez" style="height: 1.5em"/>
-
+  </div>
 </div>
 
 <div align="center" style="margin-bottom: 3em; border: 1px black solid; padding: 1em; border-radius: 10px;">
