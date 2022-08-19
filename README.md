@@ -14,7 +14,7 @@
 </div>
 
 <div align="start" style="margin-bottom: 3em;">
-  <h3> Current Status Quo:</h3>
+  <h3> Current Status Quo 🍵: </h3>
     <p> 💼 Web Developer and User Interface Designer </p>
     <p> 🚀 A fan of architecture-based technology frameworks. </p>
     <p> 🌱 Currently learning microservices development  </p>
