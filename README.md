@@ -5,7 +5,7 @@
 [<img src="./assets/banner.jpg">](https://www.behance.net/wardvisual)
 
 <h3> Hey, Great seeing you! 👀</h3>
-<p> Hello, I'm Edward Fernandez 👋🏻 Full-Stack JS Developer based in the Philippines. </p>
+<p> Hello, my name is Edward Fernandez, a web developer and UI designer in the Philippines. I'm a second-year student who has a strong enthusiasm for application development. I have spent my time creating visually appealing, responsive, and accessible web applications, and I'm still learning new development techniques for creating highly scalable, enterprise-ready systems. </p>
 
 <div> 
 <img src="https://readme-typing-svg.herokuapp.com?color=5A9BDA&lines=Edward+Fernandez;Fullstack+Javascript+Developer;UI%2FUX+Designer" alt="typing-svg"> 
@@ -14,11 +14,12 @@
 </div>
 
 <div align="start" style="margin-bottom: 3em;">
-  <h3> About Edward Fernandez:</h3>
-    <p> 🚀 A person who loves to make stuffs in his spare time. </p>
-    <p> 💼 JavaScript Enthusiast. I used Javascript Stacks to build an application. </p>
-    <p> 🤖 45% Reading, 45% Coding, 10% Sleep. </p>
-    <p> 🌱 Currently learning microservices development. </p>
+  <h3> Current Status Quo:</h3>
+    <p> 💼 Web Developer and User Interface Designer </p>
+    <p> 🚀 A fan of architecture-based technology frameworks. </p>
+    <p> 🌱 Currently learning microservices development  </p>
+    <p> 🌱 Currently developing my career at the moment. </p>
+    <p> 🤖 30% Reading, 30% Coding, 40% Sleep. </p>
     <p> 👯 Looking to collaborate on anything free and open source. </p>
     <p> 📫 How to reach me: @wardvisual </p>
 </div>
