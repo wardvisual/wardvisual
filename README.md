@@ -17,8 +17,7 @@
   <h3> Current Status Quo 🍵: </h3>
     <p> 💼 Web Developer and User Interface Designer </p>
     <p> 🚀 A fan of architecture-based technology frameworks. </p>
-    <p> 🌱 Currently learning microservices development  </p>
-    <p> 🌱 Currently learning different methodologies for developing an application. </p>
+    <p> 🌱 Currently learning microservices development and different methodologies for developing an application.  </p>
     <p> 🤖 30% Reading, 30% Coding, 40% Sleep. </p>
     <p> 👯 Looking to collaborate on anything free and open source. </p>
     <p> 📫 How to reach me: @wardvisual </p>
