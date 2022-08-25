@@ -5,7 +5,7 @@
 [<img src="./assets/banner.jpg">](https://www.behance.net/wardvisual)
 
 <h3> Hey, Great seeing you! 👀</h3>
-<p> Hello, my name is Edward Fernandez, a web developer and UI designer based in the Philippines. I'm a second-year student who has a strong enthusiasm for application development. I have spent my time creating visually appealing, responsive, and accessible web applications, and I'm still learning new development techniques for creating highly scalable, enterprise-ready applications. </p>
+<p> Hello, my name is Edward Fernandez, a web developer and UI designer based in the Philippines. Currently, I'm a second-year student who has a strong enthusiasm for application development. I have spent my time creating visually appealing, responsive, and accessible web applications. In addition, I'm constantly learning new methods for producing highly scalable, enterprise-ready systems.  What's more, I am currently learning mobile application development. </p>
 
 <div> 
 <img src="https://readme-typing-svg.herokuapp.com?color=5A9BDA&lines=Edward+Fernandez;Fullstack+Javascript+Developer;UI%2FUX+Designer" alt="typing-svg"> 
