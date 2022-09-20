@@ -5,7 +5,7 @@
 [<img src="./assets/banner.jpg">](https://www.behance.net/wardvisual)
 
 <h3> Hey, Great seeing you! 👀</h3>
-<p> Hello, my name is Edward Fernandez, a web developer and UI designer based in the Philippines. Currently, I'm a second-year student who has a strong enthusiasm for application development. I have spent my time creating visually appealing, responsive, and accessible web applications. Besides, I'm constantly learning new methods for producing highly scalable, enterprise-ready systems.  What's more, I am currently learning mobile application development. </p>
+<p> I'm Edward Fernandez, a web developer and user interface designer from the Philippines. Currently, I'm a second-year student with a lot of passion for application development. My time has been devoted to developing aesthetically pleasing, responsive, and easily accessible web apps. In addition, I'm always discovering new techniques for building highly scalable, enterprise-ready applications. Additionally, I am currently learning mobile application development. </p>
 
 <div> 
 <img src="https://readme-typing-svg.herokuapp.com?color=5A9BDA&lines=Edward+Fernandez;Fullstack+Javascript+Developer;UI%2FUX+Designer" alt="typing-svg"> 
@@ -15,12 +15,12 @@
 
 <div align="start" style="margin-bottom: 3em;">
   <h3> Current Status Quo 🍵: </h3>
-    <p> 💼 Web Developer and User Interface Designer </p>
+    <p> 💼 Web Developer and UI Designer </p>
     <p> 🚀 A fan of architecture-based technology frameworks. </p>
     <p> 🌱 Currently learning microservices development and different methodologies for developing an application.  </p>
     <p> 🤖 30% Reading, 30% Coding, 40% Sleep. </p>
     <p> 👯 Looking to collaborate on anything free and open source. </p>
-    <p> 📫 How to reach me: @wardvisual </p>
+    <p> 📫 How to reach me: <a href="https://www.wardvisual.me/" target="_blank">wardvisual</a> </p>
 </div>
 
 <hr />
