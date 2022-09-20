@@ -72,14 +72,9 @@
 </div>
 
 <div align="center">
-  <h5>Query Language</h5>
-  <img src="https://img.shields.io/badge/GraphQL -E2008F?style=for-the-badge&logo=GraphQL&logoColor=white"/>&nbsp;
-  </div>
-
-  <div align="center">
   <h5>Database(s) & ORM</h5>
   <img src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/MYSQL-F29111?style=for-the-badge&logo=mysql&logoColor=white"/>  &nbsp; <img src="https://img.shields.io/badge/Prisma -white?style=for-the-badge&logo=Prisma&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MYSQL-F29111?style=for-the-badge&logo=mysql&logoColor=white"/> 
 </div>
 <!-- 
 <div align="center">
