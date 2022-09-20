@@ -2,7 +2,7 @@
   @Author: Edward Fernandez (https://github.com/wardvisual)
  -->
 
-[<img src="./assets/wardvisual-banner.jpg">](https://www.behance.net/wardvisual)
+[<img src="./assets/wardvisual-banner.png">](https://www.wardvisual.me/)
 
 <h3> Hey, Great seeing you! 👀</h3>
 <p> I'm Edward Fernandez, a web developer and user interface designer from the Philippines. Currently, I'm a second-year student with a lot of passion for application development. My time has been devoted to developing aesthetically pleasing, responsive, and easily accessible web apps. In addition, I'm always discovering new techniques for building highly scalable, enterprise-ready applications. What's more, I am currently learning mobile application development. </p>
