@@ -19,7 +19,7 @@
     <p> 🤖 40% Reading, 40% Coding, 20% Sleep. 🧒 </p>
     <p> 👯 Looking to collaborate on anything free and open source. 👩‍💻 </p>
     <p> 📫 How to reach me: <a href="https://www.wardvisual.me/" target="_blank">wardvisual.me</a> </p>
-    <p> ⚡  I use ARCH btw 🖥 </p>
+    <p> ⚡  I use ARCH btw. 🖥 </p>
 </div>
 
 <hr />
