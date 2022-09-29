@@ -17,7 +17,7 @@
   <h3> Current Status Quo 🍵: </h3>
     <p> &nbsp;&nbsp; 🌱 Currently learning everything. 🤣 </p>
     <p> &nbsp;&nbsp; 🤖 40% Reading, 40% Coding, 20% Sleep. 🧒 </p>
-    <p> &nbsp;&nbsp; 😄 I’m a firm <a href="https://medium.com/quick-code/what-it-is-a-t-shaped-developer-and-why-you-should-be-one-e87293e4bb84" target="_blank">T-shapde developer</a></p>
+    <p> &nbsp;&nbsp; 😄 I’m a firm <a href="https://medium.com/quick-code/what-it-is-a-t-shaped-developer-and-why-you-should-be-one-e87293e4bb84" target="_blank">T-shape developer</a></p>
     <p> &nbsp;&nbsp; 👨‍💻 I use ARCH btw. 💯 </p>
     <p> &nbsp;&nbsp; 📫 How to reach me: <a href="https://www.wardvisual.me/" target="_blank">wardvisual.me</a> </p>
 </div>
