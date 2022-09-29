@@ -16,9 +16,9 @@
 <div align="start" style="margin-bottom: 3em;">
   <h3> Current Status Quo 🍵: </h3>
     <p> 🌱 Currently learning everything. 🤣 </p>
+    <p> 🤖 40% Reading, 40% Coding, 20% Sleep. 🧒 </p>
     <p> 💼 Web Developer and UI Designer. 💻 </p>
     <p> 🚀 A fan of architecture-based technology frameworks. 🤞</p>
-    <p> 🤖 30% Reading, 30% Coding, 40% Sleep. 🧒 </p>
     <p> 👯 Looking to collaborate on anything free and open source. 👩‍💻 </p>
     <p> 📫 How to reach me: <a href="https://www.wardvisual.me/" target="_blank">wardvisual.me</a> </p>
 </div>
