@@ -13,14 +13,12 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="profile-count"/> 
 </div>
 
-<div align="start" style="margin-bottom: 3em;">
-  <h3> Current Status Quo 🍵: </h3>
-    <p> 🌱 Currently learning everything. 🤣 </p>
-    <p> 🤖 40% Reading, 40% Coding, 20% Sleep. 🧒 </p>
-    <p> 👯 Looking to collaborate on anything free and open source. 👩‍💻 </p>
-    <p> 👨‍💻 I use ARCH btw. 💯 </p>
-    <p> 📫 How to reach me: <a href="https://www.wardvisual.me/" target="_blank">wardvisual.me</a> </p>
-</div>
+ <h3> Current Status Quo 🍵: </h3>
+  - 🌱 Currently learning everything. 🤣
+  - 🤖 40% Reading, 40% Coding, 20% Sleep. 🧒
+  - 😄 I’m a firm [T-shape developer](https://medium.com/quick-code/what-it-is-a-t-shaped-developer-and-why-you-should-be-one-e87293e4bb84)
+  - 👨‍💻 I use ARCH btw. 💯
+  - 📫 How to reach me: [wardvisual.me](https://www.wardvisual.me/)
 
 <hr />
 <h3>❔: Taking a few steps to make noise. 📢 </h3>
