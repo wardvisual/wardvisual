@@ -29,8 +29,8 @@
   <h5>Github Activity: 🔥</h5>
 </div>
 
-| Github Stats                                                                                                                                                                                                                                | Streak & Contribs                                                                                                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Github Stats |Streak & Contribs
+| --- | --- |
 | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=wardvisual&show_icons=true&hide=&count_private=true&title_color=519AD7&text_color=ffffff&icon_color=519AD7&bg_color=1B1A22&hide_border=true&show_icons=true) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wardvisual&stroke=ffffff&background=1B1A22&ring=519AD7&fire=0891b2&currStreakNum=ffffff&currStreakLabel=519AD7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://git.io/streak-stats) |
 
 | Github Commits Graph
