@@ -4,7 +4,7 @@
 
 [<img src="./assets/wardvisual-banner.png">](https://www.wardvisual.me/)
 
-<h3> Hey, Great seeing you! 👀</h3>
+<h3> Hello, glad to meet you here! 👀</h3>
 <p>I'm a self-taught web designer and full-stack developer from the Philippines. I have been working in software development since senior high school, and through study and learning from other smart people, I have developed a lot of knowledge and skills. </p>
 
 <div> 
@@ -17,10 +17,9 @@
   <h3> Current Status Quo 🍵: </h3>
     <p> 🌱 Currently learning everything. 🤣 </p>
     <p> 🤖 40% Reading, 40% Coding, 20% Sleep. 🧒 </p>
-    <p> 💼 Web Developer and UI Designer. 💻 </p>
-    <p> 🚀 A fan of architecture-based technology frameworks. 🤞</p>
     <p> 👯 Looking to collaborate on anything free and open source. 👩‍💻 </p>
     <p> 📫 How to reach me: <a href="https://www.wardvisual.me/" target="_blank">wardvisual.me</a> </p>
+    <p> ⚡  I use ARCH btw 🖥 </p>
 </div>
 
 <hr />
