@@ -5,7 +5,7 @@
 [<img src="./assets/wardvisual-banner.png">](https://www.wardvisual.me/)
 
 <h3> Hey, Great seeing you! 👀</h3>
-<p>A self-taught web designer and full-stack developer from the Philippines. I have been working in software development since senior high school, and through study and learning from other smart people, I have developed a lot of knowledge and skills. </p>
+<p>I'm a self-taught web designer and full-stack developer from the Philippines. I have been working in software development since senior high school, and through study and learning from other smart people, I have developed a lot of knowledge and skills. </p>
 
 <div> 
 <img src="https://readme-typing-svg.herokuapp.com?color=5A9BDA&lines=Edward+Fernandez;Fullstack+Javascript+Developer;UI%2FUX+Designer" alt="typing-svg"> 
