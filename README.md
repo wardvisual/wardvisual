@@ -37,15 +37,3 @@
 | --- |
 | ![Your Repository's Stats](https://activity-graph.herokuapp.com/graph?username=wardvisual&bg_color=1B1A22&color=519AD7&line=519AD7&point=ffffff&area_color=519AD7&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
-<hr>
-
-<div align="center">
-    <img width="180px" src="./assets/logo.png" alt="logo"/>
-</div>
-
-<div align="center" style="margin-bottom: 3em;">
-  <h3> Connect with me ⬇️</h3>
-  <h6> @wardvisual </h6>
-  <a href="https://discordapp.com/users/724778421074264187" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/wardvisual" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/wardvisual" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/wardvisual" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/wardvisual" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/wardvisual" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-  
-</div>
