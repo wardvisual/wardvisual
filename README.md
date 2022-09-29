@@ -4,7 +4,7 @@
 
 [<img src="./assets/wardvisual-banner.png">](https://www.wardvisual.me/)
 
-<h3> Hello, glad to meet you here! 👀</h3>
+<h3> Hello, glad to meet you here! 🤝</h3>
 <p>I'm Edward Fernandez, a self-taught web designer and full-stack developer based in Dasmariñas City, Cavite, Philippines. I have been working in software development since senior high school, and through study and learning from other smart people, I have developed a lot of knowledge and skills. </p>
 
 <div> 
