@@ -23,6 +23,7 @@
 </div>
 
 <hr />
+<h3>❔: Taking a few steps to make noise. 📢 </h3>
 
 <div align="center" >
   <h5>Github Activity: 🔥</h5>
