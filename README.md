@@ -15,6 +15,7 @@
 
 ##  Current Status Quo 🍵
  - &nbsp; 🌱 Currently learning everything. 🤣 
+ - &nbsp; 💼 Working as a freelance web developer. 💻 
  - &nbsp; 🤖 40% Reading, 40% Coding, 20% Sleep. 🧒
  - &nbsp; 📫 How to reach me: [wardvisual.me](https://www.wardvisual.me/)
 
