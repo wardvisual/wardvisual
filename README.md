@@ -13,21 +13,32 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="profile-count"/> 
 </div>
 
-<div align="start" style="margin-bottom: 3em;">
-  <h3> Current Status Quo 🍵: </h3>
-    <p> &nbsp;&nbsp; 🌱 Currently learning everything. 🤣 </p>
-    <p> &nbsp;&nbsp; 🤖 40% Reading, 40% Coding, 20% Sleep. 🧒 </p>
-    <p> &nbsp;&nbsp; 😄 I’m a firm <a href="https://medium.com/quick-code/what-it-is-a-t-shaped-developer-and-why-you-should-be-one-e87293e4bb84" target="_blank">T-shapde developer</a></p>
-    <p> &nbsp;&nbsp; 👨‍💻 I use ARCH btw. 💯 </p>
-    <p> &nbsp;&nbsp; 📫 How to reach me: <a href="https://www.wardvisual.me/" target="_blank">wardvisual.me</a> </p>
-</div>
+##  Current Status Quo 🍵
+ - &nbsp; 🌱 Currently learning everything. 🤣 
+ - &nbsp; 🤖 40% Reading, 40% Coding, 20% Sleep. 🧒
+ - &nbsp; 📫 How to reach me: [wardvisual.me](https://www.wardvisual.me/)
 
-<hr />
-<h3>❔: Taking a few steps to make noise. 📢 </h3>
+## Current Tech Stack 🛠
+  ![Arch linux](https://img.shields.io/badge/-Arch_Linux-1B1A22?style=flat&logo=arch-linux)&nbsp;
+  ![Nginx](https://img.shields.io/badge/-Nginx-1B1A22?style=flat&logo=nginx&logoColor=green)&nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-1B1A22?style=flat&logo=docker)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
+  ![SCSS](https://img.shields.io/badge/-SCSS-141a20?style=flat&logo=sass)&nbsp;
+  ![Angular](https://img.shields.io/badge/-Angular-1B1A22?style=flat&logo=angular&logoColor=red)&nbsp;
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-1B1A22?style=flat&logo=react)&nbsp;
+  ![NestJs](https://img.shields.io/badge/-NestJs-1B1A22?style=flat&logo=nestjs&logoColor=red)&nbsp;
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-1B1A22?style=flat&logo=node.js)&nbsp;
+  ![Express](https://img.shields.io/badge/-Express-1B1A22?style=flat&logo=express)&nbsp;
+  ![PHP](https://img.shields.io/badge/-PHP-1B1A22?style=flat&logo=php)&nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-1B1A22?style=flat&logo=mysql)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-1B1A22?style=flat&logo=mongodb)&nbsp;
+  ![Jest](https://img.shields.io/badge/-Jest-1B1A22?style=flat&logo=jest&logoColor=red)&nbsp;
+  ![Figma](https://img.shields.io/badge/-Figma-1B1A22?style=flat&logo=figma&logoColor=ffffff)&nbsp;
+  ![Vim](https://img.shields.io/badge/-Vim-1B1A22?style=flat&logo=vim)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<div align="center" >
-  <h5>Github Activity: 🔥</h5>
-</div>
+
+## Github Activity: 🔥
 
 | Github Stats |Streak & Contribs
 | --- | --- |
