@@ -17,7 +17,7 @@
  - &nbsp; 🌱 Currently learning everything. 🤣 
  - &nbsp; 💼 Currently working as a freelance web developer. 💻 
  - &nbsp; 🤖 40% Reading, 40% Coding, 20% Sleep. 🧒
- - &nbsp; 📫 How to reach me: [wardvisual.me](https://www.wardvisual.me/)
+ - &nbsp; 🖥 Visit my works: [wardvisual.me](https://www.wardvisual.me/)
 
 ## Current Tech Stack 🛠
   ![Arch linux](https://img.shields.io/badge/-Arch_Linux-1B1A22?style=flat&logo=arch-linux)&nbsp;
