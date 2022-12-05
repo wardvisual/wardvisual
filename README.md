@@ -5,7 +5,7 @@
 [<img src="./assets/wardvisual-banner.png">](https://www.wardvisual.me/)
 
 <h3> Hello, glad to meet you here! 🤝</h3>
-<p>I'm Edward Fernandez, a self-taught web designer and full-stack developer based in Dasmariñas City, Cavite, Philippines. I have been working in software development since senior high school, and through study and learning from other smart people, I have developed a lot of knowledge and skills. </p>
+<p>A self-taught web designer and javascript developer with over 2 years of experience in the field, I specialize in creating intuitive and user-friendly software solutions, I have a strong background in web design and am skilled in JavaScript development using React and Angular. In addition to my technical skills, I am a proactive and adaptable problem-solver, with a passion for continuous learning and professional development. Always looking for new challenges and opportunities to apply my knowledge and experience to create innovative and effective software solutions.</p>
 
 <div> 
 <img src="https://readme-typing-svg.herokuapp.com?color=5A9BDA&lines=Edward+Fernandez;Fullstack+Javascript+Developer;UI%2FUX+Designer" alt="typing-svg"> 
