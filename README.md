@@ -5,7 +5,7 @@
 [<img src="./assets/wardvisual-banner.png">](https://www.wardvisual.me/)
 
 <h3> Hello, glad to meet you here! 🤝</h3>
-<p>A self-taught web designer and javascript developer with over 2 years of experience in the field, I specialize in creating intuitive and user-friendly software solutions, I have a strong background in web design and am skilled in JavaScript development using React and Angular. In addition to my technical skills, I am a proactive and adaptable problem-solver, with a passion for continuous learning and professional development. Always looking for new challenges and opportunities to apply my knowledge and experience to create innovative and effective software solutions.</p>
+<p>As a self-taught web designer and JavaScript developer, I specialize in creating intuitive and user-friendly software solutions that blend development and design. With over 2 years of experience, I am skilled in using Node.js and Nest.js to build scalable and maintainable web applications, as well as in web design and JavaScript development using React and Angular. I am a proactive problem-solver with a passion for continuous learning and professional development, always seeking new challenges and opportunities to create innovative solutions.</p>
 
 <div> 
 <img src="https://readme-typing-svg.herokuapp.com?color=5A9BDA&lines=Edward+Fernandez;Fullstack+Javascript+Developer;UI%2FUX+Designer" alt="typing-svg"> 
@@ -14,10 +14,10 @@
 </div>
 
 ##  Current Status Quo 🍵
- - &nbsp; 🌱 Currently learning everything. 🤣 
- - &nbsp; 💼 Currently working as a freelance web developer. 💻 
- - &nbsp; 🤖 40% Reading, 40% Coding, 20% Sleep. 🧒
- - &nbsp; 🖥 Visit my works: [wardvisual.me](https://www.wardvisual.me/)
+ - &nbsp; 🌱 Learning new skills and technologies
+ - &nbsp; 💼 Working as a freelance web developer
+ - &nbsp; 🤖 Constantly improving my skills through a balanced mix of reading, coding, and rest
+ - &nbsp; 🖥 Check out my work at: [wardvisual.me](https://www.wardvisual.me/)
 
 ## Current Tech Stack 🛠
   ![Arch linux](https://img.shields.io/badge/-Arch_Linux-1B1A22?style=flat&logo=arch-linux)&nbsp;
