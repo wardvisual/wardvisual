@@ -2,10 +2,11 @@
   @Author: Edward Fernandez (https://github.com/wardvisual)
  -->
 
-[<img src="./assets/wardvisual-banner.png">](https://www.wardvisual.me/)
+[<img src="./assets/wardvisualv2.jpg">](https://www.wardvisual.me/)
+
 
 <h3> Hello, glad to meet you here! 🤝</h3>
-<p>As a self-taught web designer and JavaScript developer, I specialize in creating intuitive and user-friendly software solutions that blend development and design. With over 2 years of experience, I am skilled in JavaScript modern development using Node.js and Nest.js to build scalable and maintainable web applications, as well as in web design and frontend development using NextJS and Angular. I am a proactive problem-solver with a passion for continuous learning and professional development, always seeking new challenges and opportunities to create innovative solutions.</p>
+<p>As a self-taught web designer and JavaScript developer, I specialize in creating intuitive and user-friendly software solutions that blend development and design. With over 2 years of experience, I am skilled in using Node.js and Nest.js to build scalable and maintainable web applications, as well as in web design and JavaScript development using React and Angular. I am a proactive problem-solver with a passion for continuous learning and professional development, always seeking new challenges and opportunities to create innovative solutions.</p>
 
 <div> 
 <img src="https://readme-typing-svg.herokuapp.com?color=5A9BDA&lines=Edward+Fernandez;Fullstack+Javascript+Developer;UI%2FUX+Designer" alt="typing-svg"> 
