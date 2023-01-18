@@ -6,7 +6,7 @@
 
 
 <h3> Hello, glad to meet you here! 🤝</h3>
-<p> I specialize in creating intuitive and user-friendly software solutions that blend development and design. With over 2 years of experience, I am skilled in using Node.js and Nest.js to build scalable and maintainable web applications, as well as in web design and JavaScript development using React and Angular. I have a proactive approach to problem-solving and a passion for continuous learning and professional development, always looking for new challenges and opportunities to create innovative solutions.</p>
+<p> I specialize in creating user-friendly software solutions that blend development and design. With over 2 years of experience in JavaScript development and UI/UX design</p>
 
 <div> 
 <img src="https://readme-typing-svg.herokuapp.com?color=5A9BDA&lines=Edward+Fernandez;Fullstack+Javascript+Developer;UI%2FUX+Designer" alt="typing-svg"> 
