@@ -14,11 +14,21 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="profile-count"/> 
 </div>
 
-##  Current Status Quo 🍵
+##  Current Status Quo: 🍵
  - &nbsp; 🌱 Learning new skills and technologies
  - &nbsp; 💼 Working as a freelance web developer
  - &nbsp; 🤖 Constantly improving my skills through a balanced mix of reading, coding, and rest
  - &nbsp; 🖥 Check out my work at: [wardvisual.me](https://www.wardvisual.me/)
+
+##  Social Accounts: 🌎
+ - [Portfolio](wardvisual.me)
+ - [LinkedIn](https://www.linkedin.com/in/wardvisual)
+ - [Medium](https://medium.com/@wardvisual)
+ - [NPM](https://www.npmjs.com/~wardvisual)
+ - [dev.to](https://dev.to/wardvisual)
+ - [Behance](https://www.behance.net/wardvisuall)
+ - [Twitter](https://twitter.com/wardvisual)
+ - [Facebook Page](https://www.facebook.com/wardvisual.me)
 
 ## Current Tech Stack 🛠
   ![Arch linux](https://img.shields.io/badge/-Arch_Linux-1B1A22?style=flat&logo=arch-linux)&nbsp;
