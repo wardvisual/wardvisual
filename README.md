@@ -2,7 +2,7 @@
   @Author: Edward Fernandez (https://github.com/wardvisual)
  -->
 
-[<img src="./assets/banner.jpg">](https://www.wardvisual.me/)
+[<img src="./assets/bannerv2.jpg">](https://www.wardvisual.me/)
 
 
 <h3> Hello, glad to meet you here! 🤝</h3>
