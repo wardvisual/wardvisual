@@ -31,7 +31,6 @@
  - [Facebook Page](https://www.facebook.com/wardvisual.me)
 
 ## Current Tech Stack 🛠
-  ![Arch linux](https://img.shields.io/badge/-Arch_Linux-1B1A22?style=flat&logo=arch-linux)&nbsp;
   ![Nginx](https://img.shields.io/badge/-Nginx-1B1A22?style=flat&logo=nginx&logoColor=green)&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-1B1A22?style=flat&logo=docker)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
