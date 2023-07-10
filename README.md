@@ -6,7 +6,7 @@
 
 
 <h3> Hello, glad to meet you here! 🤝</h3>
-<p> I specialize in creating user-friendly software solutions that blend development and design. With over 2+ years of experience in JavaScript development and UI/UX design.</p>
+<p> I specialize in creating user-friendly software solutions that blend development and design. With over 3+ years of experience in JavaScript development and UI/UX design.</p>
 
 <div> 
 <img src="https://readme-typing-svg.herokuapp.com?color=5A9BDA&lines=Edward+Fernandez;Fullstack+Javascript+Developer;UI%2FUX+Designer" alt="typing-svg"> 
